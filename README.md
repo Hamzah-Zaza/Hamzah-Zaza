@@ -24,25 +24,30 @@ I possess a keen interest in several activities such as coding, sports, gaming, 
 
 
 <h3> 📫 Connect information </h3>
+Visit my <a href="https://www.linkedin.com/in/hamzah-zaza-521136270/">LinkedIn</a>
+ profile for more information about my professional experience and qualifications.
 
 
 
 <h3> 📄 GitHub portfolio </h3>
-Please take a look at my GitHub portfolio where you can find an array of my projects, 
-along with video demos that showcase how they work. Additionally, you'll find a brief introduction about myself on my portfolio page.
+I invite you to check out my GitHub portfolio, which includes a diverse range of projects, complete with video demos that effectively demonstrate their functionality. On my portfolio page, you will also find a concise introduction about myself. Additionally, here are some quick stats regarding my GitHub activity:
+<br>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzah-zaza&show_icons=true&locale=en" alt="hamzah-zaza" />
 
-<h3> GitHub stats </h3>
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-Hamzah-Zaza
 
-<h3 align="left"> Reach out to me using the following contact details</h3>
 
 
 <p align="left">
 </p>
 
+
+
+
 <h3 align="left">Languages and Tools</h3>
-
-
+I have been learning and integrating the following languages and tools into my repositories
+<br>
+<br>
 <p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
   </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
