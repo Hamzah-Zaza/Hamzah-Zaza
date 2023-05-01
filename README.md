@@ -1,4 +1,4 @@
-<h3 align="center" font-family="Cascadia Code"> > Hello, World! </h3>
+<h3 align="center"> > Hello, World! </h3>
 
 Greetings, I am Hamzah Zaza, a dedicated computer science major currently enrolled in an MIT xPro program for full stack development with MERN.
 My objective is to refine my skillset and enhance my abilities in this field, which I am deeply passionate about. Apart from my academic pursuits,
@@ -32,13 +32,17 @@ Please take a look at my GitHub portfolio where you can find an array of my proj
 along with video demos that showcase how they work. Additionally, you'll find a brief introduction about myself on my portfolio page.
 
 <h3> GitHub stats </h3>
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-Hamzah-Zaza
+
+<h3 align="left"> Reach out to me using the following contact details</h3>
 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
+
+
 <p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
   </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
