@@ -23,11 +23,6 @@ I possess a keen interest in several activities such as coding, sports, gaming, 
   </details>
 
 
-<h3> 📫 Contact  information </h3>
-Visit my <a href="https://www.linkedin.com/in/hamzah-zaza-521136270/">LinkedIn</a>
- profile for more information about my professional experience and qualifications.
- 
-
 <h3> 📄 GitHub portfolio </h3>
 I invite you to check out my <a href="https://hamzah-zaza.github.io/">Github Portfolio</a>, which includes a diverse range of projects, complete with video demos that effectively demonstrate their functionality. On my portfolio page, you will also find a concise introduction about myself. Additionally, here are some quick stats regarding my GitHub activity.
 <br>
