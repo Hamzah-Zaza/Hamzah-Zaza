@@ -1,6 +1,6 @@
 <h3 align="center"> > Hello, World! </h3>
 
-Greetings, I am Hamzah Zaza, a dedicated computer science major currently enrolled in an MIT xPro program for full stack development with MERN.
+Greetings, I am Hamzah Zaza, a dedicated computer science major completed an MIT xPro program for full stack development with MERN.
 My objective is to refine my skillset and enhance my abilities in this field, which I am deeply passionate about. Apart from my academic pursuits,
 I possess a keen interest in several activities such as coding, sports, gaming, and outdoor pursuits.
 
