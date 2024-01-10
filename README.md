@@ -5,23 +5,6 @@ My objective is to refine my skillset and enhance my abilities in this field, wh
 I possess a keen interest in several activities such as coding, sports, gaming, and outdoor pursuits.
 
 
----
-<details>
-<summary><h3> 📚 Here are the learning outcomes I achieved this week.</h3> </summary>
-<br>
-  
-- Setting up an express server
-- Creating databases
-- Defining an npm package as well as a three-tiered application in addition to creation
-- Identifying express routing methods
-- Manipulating database records
-- Researching testing strategies
-- Interprit unit tests
-- Identify testing strategies
-- Writing unit tests with Jest
-
-  </details>
-
 
 <h3> 📄 GitHub portfolio </h3>
 I invite you to check out my <a href="https://hamzah-zaza.github.io/">Github Portfolio</a>, which includes a diverse range of projects, complete with video demos that effectively demonstrate their functionality. On my portfolio page, you will also find a concise introduction about myself. Additionally, here are some quick stats regarding my GitHub activity.
