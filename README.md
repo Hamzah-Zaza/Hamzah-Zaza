@@ -35,8 +35,7 @@ Hi, my name is **Hamzah Zaza**. I am a passionate full-stack web developer based
 
 ### 📫 Connect with Me
 
-- **Email:** your.email@example.com  
-- **LinkedIn:** [Hamzah Zaza](https://www.linkedin.com/in/hamzah-zaza/)  
+- **Email:** Hamzah.zaza@gmail.com  
 - **GitHub:** [github.com/hamzah-zaza](https://github.com/hamzah-zaza)  
 
 ---
