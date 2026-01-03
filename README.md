@@ -29,7 +29,6 @@ Hi, my name is **Hamzah Zaza**. I am a passionate full-stack web developer based
 - **Real-Time Chat App:** Built with WebSockets for live communication.  
 - **Blog Platform:** Full CRUD operations with user authentication and comments.  
 
-> Check out more of my projects [here](https://github.com/your-username?tab=repositories)
 
 ---
 
